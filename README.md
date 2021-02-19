@@ -1,17 +1,18 @@
 # ANCART
 
-## Описание
+## Description
 
-ANCART это шаблон интернет магазина работающего на OCSHOP.CMS.
+ANCART is an online store template powered by OCSHOP.CMS.
 
-## Демонстрация Шаблона.
+## Template Demonstration.
 
 http://ancart.ocshop.net/
 
-## Скачать OCSHOP.CMS.
+## Download OCSHOP.CMS.
 
 http://ocshop.net/
 
-## Блог.
+## Blog.
 
-http://ocshop.info
+http://ocshop.info 
+
